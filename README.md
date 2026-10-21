@@ -1,8 +1,8 @@
 # 🎤 人聲分離工房 (Vocal Extractor)
 
-參考 [`wongsir1011/karaoke-factory`](https://github.com/wongsir1011/karaoke-factory) 架構設計的 **100% Windows 本機運行 AI 人聲與背景音樂分離工具**。
+架構設計 **100% Windows 本機運行 AI 人聲與背景音樂分離工具**。
 
-原版 `karaoke-factory` 在分離音軌後只保留伴奏（`no_vocals.wav`）用於壓製卡拉 OK 字幕影片；而本專案 **Vocal Extractor** 則專注於**高精準度提取純人聲 (`Vocals`) 與純背景音樂 (`Instrumental`)**，提供三軌即時對比試聽與無損匯出。
+本專案 **Vocal Extractor** 則專注於**高精準度提取純人聲 (`Vocals`) 與純背景音樂 (`Instrumental`)**，提供三軌即時對比試聽與無損匯出。
 
 ---
 
